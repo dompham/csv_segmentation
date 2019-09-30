@@ -1,0 +1,3 @@
+PatientID,VisitNumber,PatientMRN,Race,FirstName,LastName,Ethn,Facility
+1,v1,mrn1,race1,firstname1,lastname1,ethn1,facility1
+2,v2,mrn2,race2,firstname2,lastname2,ethn2,facility2
